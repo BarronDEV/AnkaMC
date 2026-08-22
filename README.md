@@ -13,7 +13,7 @@ Set up a Minecraft Java Edition server on your Android phone with **one tap**,
 manage your world, and invite your friends through a tunnel. No root, no Termux,
 no PC required.
 
-🌐 [ankamc.org](https://ankamc.org) · [🇹🇷 Türkçe sürüm için tıklayın](#tr-t%C3%BCrk%C3%A7e)
+🌐 [ankamc.org](https://app.ankamc.org) · [🇹🇷 Türkçe sürüm için tıklayın](#tr-t%C3%BCrk%C3%A7e)
 
 </div>
 
@@ -91,7 +91,7 @@ Android telefonunda **tek tıkla** Minecraft Java Edition sunucusu kur,
 dünyanı yönet, arkadaşlarını tünel üzerinden davet et.
 Root yok, Termux yok, bilgisayar yok.
 
-[English version above](#top) · 🌐 [ankamc.org](https://ankamc.org)
+[English version above](#top) · 🌐 [ankamc.org](https://app.ankamc.org)
 
 </div>
 
